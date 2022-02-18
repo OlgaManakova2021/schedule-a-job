@@ -1,0 +1,18 @@
+Список потоков вещающих радиостанций
+
+
+
+1	Dushevnoe Radio Minsk 105.7 FM	http://stream.hoster.by:8081/pilotfm/audio/icecast.audio
+2	EURO Radio FM	http://stream1.euroradio.fm:8000/euroradio1?seed=1523961466	
+3	Love Is Radio	http://listen1.myradio24.com:9000/3355	
+4	NovoeRadio BY	http://live.novoeradio.by:8000/novoeradio-128k	
+6	NovoeRadio BY Narodnoe	http://live.novoeradio.by:8000/narodnoe-radio-128k	
+7	UP FM radio	http://listen.teploe.net:8100/npkfm	
+8	WarGaming.FM МИНСК	http://sv.wargaming.fm:8051/128	
+9	Гомельское городское радио 107.4FM	http://gomeltv.by:2015/gomelradio	
+10	Легенды FM	http://live.legendy.by:8000/legendyfm	
+11	Радио ГОМЕЛЬ-ПЛЮС 103.7FM	http://s1.radioheart.ru:8001/radiogomel	
+12	Теплое Радио Нетоп FM	http://radio2.teploe.net:8000/teploeradio	
+13	1Крым	http://fm.1tvcrimea.ru:8000/stream.mp3	
+14	7 / на семи холмах 104.7 FM	http://retroserver.streamr.ru:8040/radio7128.mp3	
+15	88.3 FM - Ретро ФМ	http://hls-01-retro.emgsound.ru/12/128/playlist.m3u8	
